@@ -4,7 +4,8 @@
 
 
 # 💫 About Me:
-- 🎓Sophomore pursuing B.Tech in Artificial Intelligence and Machine Learning at Indira Gandhi Delhi Technical University for Women.<br>- 🔭 A huge AI AND ML Enthusiast<br>- ⚡ Here is my [CV](https://drive.google.com/file/d/1Xiy7Jm3hUb_agqpw03EJAn41YH3xlxQM/view?usp=sharing)<br>- 🌱 I am productive when I am coding!<br>- 🚀 Front End Web developer
+- 🎓Sophomore pursuing B.Tech in Artificial Intelligence and Machine Learning at Indira Gandhi Delhi Technical University for Women.<br>- 🔭 A huge AI AND ML Enthusiast<br>- ⚡ Here is my [CV](https://drive.google.com/file/d/1Xiy7Jm3hUb_agqpw03EJAn41YH3xlxQM/view?usp=sharing)<br>-⚡ [My Portfolio](https://strong-fenglisu-011afa.netlify.app/)
+<br>- 🌱 I am productive when I am coding!<br>- 🚀 Front End Web developer
 
 
 ## 🌐 Socials:
